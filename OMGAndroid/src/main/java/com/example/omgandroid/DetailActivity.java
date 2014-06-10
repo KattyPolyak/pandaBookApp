@@ -13,7 +13,7 @@ import com.squareup.picasso.Picasso;
 /**
  * Created by katty on 6/9/14.
  */
-//test
+//test test2
 public class DetailActivity extends Activity{
     private static final String IMAGE_URL_BASE = "http://covers.openlibrary.org/b/id/"; // 13
     String mImageURL; // 13
